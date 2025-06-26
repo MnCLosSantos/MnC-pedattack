@@ -1,4 +1,3 @@
 # MnC-Pedattack
-![Uploading pedattack.png…]()
-
+![pedattack](https://github.com/user-attachments/assets/99393c2d-0c23-4c4d-88a9-13414b6d8b78)
 a simple admin command to send gangs after a player until they die
