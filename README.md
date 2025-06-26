@@ -7,6 +7,7 @@
 A simple admin command to send gangs after a player until they die
 ------------------------------------------------------------------
 -- Commands --
-- /pedattack (id)   - starts ped attack # example "/pedattack 1"
+- /pedattack (id)   - starts ped attack
+# example "/pedattack 1"
 - /stoppedattack    - stops ped attack
 ------------------------------------------------------------------
