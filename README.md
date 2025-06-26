@@ -4,9 +4,9 @@
 ------------------------------------------------------------------
 # MnC-Pedattack
 ------------------------------------------------------------------
-A simple admin command to send gangs after a player until they die
+## A simple admin command to send gangs after a player until they die
 ------------------------------------------------------------------
--- Commands --
+## -- Commands --
 - /pedattack (id)   - starts ped attack
 ### example "/pedattack 1"
 - /stoppedattack    - stops ped attack
