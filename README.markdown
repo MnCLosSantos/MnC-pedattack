@@ -5,9 +5,13 @@
 ---------------------------------------------------------------------------------------------------------------------
 ## **MnC-PedAttack** is a FiveM resource that allows server administrators to initiate a gang attack on a specific player, spawning hostile NPCs to engage the target. This resource is designed for GTA V servers running the QBCore framework, providing an immersive and dynamic gameplay experience.
 ---------------------------------------------------------------------------------------------------------------------
+
+
 ![1](https://github.com/user-attachments/assets/301b2406-b815-45dd-a281-b6a857aa6ef8)
 ![2](https://github.com/user-attachments/assets/428070d9-134b-44f1-b5db-391d0b176c5a)
 ![3](https://github.com/user-attachments/assets/0d6072c1-84eb-444e-a353-716e3faa38ba)
+
+
 ---------------------------------------------------------------------------------------------------------------------
 ## Features
 - **Targeted NPC Attacks**: Spawn a configurable number of hostile NPCs to attack a specified player.
