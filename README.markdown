@@ -1,8 +1,5 @@
 # MnC-PedAttack
-
-![FiveM](https://img.shields.io/badge/FiveM-Resource-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
+<img width="1024" height="1024" alt="459189577-99393c2d-0c23-4c4d-88a9-13414b6d8b78" src="https://github.com/user-attachments/assets/c68a11ab-35c2-49c2-b9fc-57fe48368dfb" />
 **MnC-PedAttack** is a FiveM resource that allows server administrators to initiate a gang attack on a specific player, spawning hostile NPCs to engage the target. This resource is designed for GTA V servers running the QBCore framework, providing an immersive and dynamic gameplay experience.
 
 ## Table of Contents
@@ -18,16 +15,15 @@
 
 ## Features
 - **Targeted NPC Attacks**: Spawn a configurable number of hostile NPCs to attack a specified player.
-- **Customizable Settings**: Adjust spawn radius, despawn time, and NPC behavior via a configuration file.
+- **Customizable Settings**: Adjust spawn radius, despawn time, and NPC behavior via client file.
 - **Relationship Management**: NPCs are grouped to avoid infighting and focus solely on the target player.
 - **Automatic Cleanup**: NPCs and vehicles are despawned after a set time or when the target dies/leaves.
 - **Notification System**: Uses `ox_lib` for user-friendly notifications to admins and players.
 - **Server-Side Control**: Commands restricted to authorized users for secure operation.
 
 ## Requirements
-- **FiveM Server** with the QBCore framework installed.
+- **QBCore/QBOX** framework.
 - **ox_lib** for notifications.
-- A working GTA V server environment.
 
 ## Installation
 
@@ -107,10 +103,6 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request.
 
 Please ensure your code follows the existing style and includes appropriate comments. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details (to be added).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
