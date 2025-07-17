@@ -20,7 +20,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 ## Features
-- **Targeted NPC Attacks**: Spawn a configurable number of hostile NPCs to attack a specified player.
+- **Targeted NPC Attacks**: Spawn a number of hostile NPCs to attack a specified player.
 - **Customizable Settings**: Adjust spawn radius, despawn time, and NPC behavior via client file.
 - **Relationship Management**: NPCs are grouped to avoid infighting and focus solely on the target player.
 - **Automatic Cleanup**: NPCs and vehicles are despawned after a set time or when the target dies/leaves.
