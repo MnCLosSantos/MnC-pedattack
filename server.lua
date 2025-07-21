@@ -33,13 +33,6 @@ RegisterCommand("pedattack", function(source, args)
         description = "Attack sent to " .. targetName,
         type = "success"
     })
-
-    -- Server-wide notify everyone
-    TriggerClientEvent('ox_lib:notify', -1, {
-        title = "MnC-pedattack",
-        description = targetName .. " is under attack!",
-        type = "inform"
-    })
 end, true)
 
 RegisterCommand("stoppedattack", function(source)
