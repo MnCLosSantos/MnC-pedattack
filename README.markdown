@@ -8,7 +8,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## **MnC-PedAttack** is a FiveM resource that allows server administrators to initiate a gang attack on a specific player, spawning hostile NPCs to engage the target. This resource is designed for GTA V servers running the QBCore framework, providing an immersive and dynamic gameplay experience.
+## **MnC-PedAttack** is a FiveM resource that allows administrators to initiate a gang attack on a specific player, spawning hostile NPCs to engage the target. This resource is designed for GTA V servers running the QBCore framework, providing an immersive and dynamic gameplay experience.
 
 ---------------------------------------------------------------------------------------------------------------------
 
